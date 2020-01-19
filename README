@@ -1,0 +1,11 @@
+
+This repository contains:
+
+- task.txt - original task description 
+- generate.py - script that generates input data from task description
+- solution.py - script with my task solution
+- incidents.csv - example input file from task description
+- counts.csv - output created by my solution.py for an example in task description
+- task-example-out.txt - result from task description in text format (same contents as in counts.csv)
+
+Both 'counts.csv' and 'task-example-out.txt' show result of calculating counts for an example in task description with my 'solution.py'. This result is *different* from the one given in task description and reflects my understanding of the task.
